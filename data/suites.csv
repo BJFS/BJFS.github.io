@@ -1,3 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Apr 17 09:48:13 UTC 2023","Mon Apr 17 09:48:16 UTC 2023","2908","","Demo Tests","","Demo Tests","Check that correct text is displayed @demo_success @demo","Check that correct text is displayed @demo_success @demo",""
-"failed","Mon Apr 17 09:48:16 UTC 2023","Mon Apr 17 09:48:18 UTC 2023","2409","","Demo Tests","","Demo Tests","Check that correct text is displayed @demo_fail @demo","Check that correct text is displayed @demo_fail @demo",""
+"passed","Mon Apr 17 10:32:13 UTC 2023","Mon Apr 17 10:32:16 UTC 2023","2466","","Demo Tests","","Demo Tests","Check that correct text is displayed @demo_success @demo","Check that correct text is displayed @demo_success @demo",""
