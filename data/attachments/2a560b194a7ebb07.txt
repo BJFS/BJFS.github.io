@@ -1,4 +1,0 @@
-{
-  "script": "sauce:context=    at Context.<anonymous> (/home/runner/work/AutomationFrameworkPOC/AutomationFrameworkPOC/test_native/specs/demo.test.js:21:48)",
-  "args": []
-}
