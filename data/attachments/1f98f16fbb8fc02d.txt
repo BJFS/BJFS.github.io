@@ -1,4 +1,0 @@
-{
-  "script": "sauce:context=AssertionError: Assertion on click result has failed!: expected 'Hello!!!!!!' to include 'Bye! =('",
-  "args": []
-}
